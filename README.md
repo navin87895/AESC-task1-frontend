@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Fronted Hosted on Github Pages - [Frontend Live Url](https://navin87895.github.io/AESC-task1-frontend/)
+Backend Hosted on Render [Backend Url](https://aesc-task1-backend.onrender.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
