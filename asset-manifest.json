@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AESC-task1-frontend/static/css/main.279351b2.css",
-    "main.js": "/AESC-task1-frontend/static/js/main.ac6f5345.js",
+    "main.js": "/AESC-task1-frontend/static/js/main.0a7c28d4.js",
     "index.html": "/AESC-task1-frontend/index.html",
     "main.279351b2.css.map": "/AESC-task1-frontend/static/css/main.279351b2.css.map",
-    "main.ac6f5345.js.map": "/AESC-task1-frontend/static/js/main.ac6f5345.js.map"
+    "main.0a7c28d4.js.map": "/AESC-task1-frontend/static/js/main.0a7c28d4.js.map"
   },
   "entrypoints": [
     "static/css/main.279351b2.css",
-    "static/js/main.ac6f5345.js"
+    "static/js/main.0a7c28d4.js"
   ]
 }
